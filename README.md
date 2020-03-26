@@ -12,7 +12,7 @@ Clone the Repository:
 ```
 
 Modify `jumpbox/netbox_url.py`:
-  - replace `<netbox_url` on line 20 with the URL or IP to your Netbox installation.
+  - replace `<netbox_url>` on line 20 with the URL or IP to your Netbox installation.
 
 Install Requirements:
 ```bash
